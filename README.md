@@ -1,3 +1,2 @@
 # Hackerrank
-Hackerrank solution's
-This space here provides c# hackerrank solution's.
+This space here provides c# hackerrank solution's have tried and implemented it using LINQ wherever possible.
